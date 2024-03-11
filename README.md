@@ -8,7 +8,7 @@ I've been learning code for 3 years. I started with React JS but have really fou
 
 *   🌍  I'm based in Ho Chi Minh
 *   ✉️  You can contact me at [lethanh040997@gmail.com](mailto:lethanh040997@gmail.com)
-*   🧠  I'm learning Node JS### Skills
+*   🧠  I'm learning Node JS
   
 ### Skills  
 
