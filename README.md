@@ -4,11 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front end Developer
 -------------------
 
-I've been learning code for 3 years. I started with React JS but have really found a passion with backend development
+I've been learning code for 3 years.
 
 *   🌍  I'm based in Ho Chi Minh
 *   ✉️  You can contact me at [lethanh040997@gmail.com](mailto:lethanh040997@gmail.com)
-*   🧠  I'm learning Node JS
   
 ### Skills  
 
